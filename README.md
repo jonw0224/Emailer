@@ -50,7 +50,7 @@ crontab -e
     --campaign email_campaignsUserSpecified.csv > /path/to/script/emailer.log
 ```
 
-*Adjust the paths and timing as needed.*
+Adjust the paths and timing as needed.
 
 ---
 
