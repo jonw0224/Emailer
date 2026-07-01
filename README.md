@@ -86,7 +86,7 @@ Template files (e.g., `test.html`) can contain placeholders:
 
 Placeholders (`{{fieldname}}`) are replaced by values from either the recipient CSV (e.g. 'audience.csv') or campaign CSV (e.g. 'email_campaigns.csv').
 
-**Email Template example ('test.html')**
+**Email Template example (`test.html`)**
 
 ---
 
