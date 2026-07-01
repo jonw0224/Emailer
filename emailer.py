@@ -1,8 +1,8 @@
 ################################################################################
 # Author: Jonathan Weaver
 # Written with assistance from granite4.1:8b LLM model under Ollama
-# Date: 06/27/2026
-# Version: 1.01
+# Date: 06/30/2026
+# Version: 1.02
 # Revisons:
 #   06/26/2026 - 1.00 - Created script, configuration file, email list file, and 
 #                       campaign file 
@@ -13,7 +13,7 @@
 #                       field from the email list file is included in the
 #                       subject or the email body template as {{FieldName}} and
 #                       will be substituted by the actual value.
-#   06/30/2026 - 1.03 - Added mail merge functionality so that the body template
+#   06/30/2026 - 1.02 - Added mail merge functionality so that the body template
 #                       can use fields from the campaign list.
 #
 # MIT License
